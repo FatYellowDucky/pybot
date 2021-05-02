@@ -6,7 +6,7 @@ def cmd(cmd):
 		'hello': 'hi',
 		'hi': 'hello',
 		'bored':'not me',
-		'$?version?': '1.0',
+		'$?version?': '1.1',
 		'$?len?': 'en-gb'
 	}
 	try:
